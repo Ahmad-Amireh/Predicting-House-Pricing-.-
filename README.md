@@ -11,4 +11,4 @@ Following that, we used a different method such as Backword elimination and Lass
 
 Next, we built machine learning models using RandomForest and GradientBoosting and tried to enhance them using Hypermeter tuning. 
 
-Finally ,In order to be able to use the model by non-technical people, we had to create a web page (User Interface). .
+Finally ,In order to be able to use the model by non-technical people, we had to create a web page (User Interface) using streamlit.
